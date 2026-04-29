@@ -1,11 +1,5 @@
 # Hi there, I'm Longhao (Richard) Liu 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Software_Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cloud_Infrastructure-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Halifax,_NS-success?style=for-the-badge" />
-</p>
-
 I am a **Software Developer** at **Zmley Inc.**, focused on building robust full-stack applications and architecting highly available cloud systems. I specialize in bridging the gap between complex backend logic and high-performance frontend interfaces.
 
 - 🚀 **Current Focus:** Optimizing enterprise-level CI/CD pipelines and scaling microservices.
@@ -27,19 +21,7 @@ I am a **Software Developer** at **Zmley Inc.**, focused on building robust full
 
 ---
 
-### 📈 GitHub Ecosystem Profile
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=longhaoliu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longhaoliu&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📬 Connect With Me
 - 💼 **LinkedIn:** [linkedin.com/in/longhaoliu](YOUR_LINKEDIN_URL)
 - 📧 **Email:** [LonghaoLiu123@gmail.com](mailto:LonghaoLiu123@gmail.com)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
